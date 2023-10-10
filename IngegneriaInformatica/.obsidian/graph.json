@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "#analisi1",
+      "color": {
+        "a": 1,
+        "rgb": 8177396
+      }
+    },
+    {
+      "query": "#algebra",
+      "color": {
+        "a": 1,
+        "rgb": 15291321
+      }
+    },
+    {
+      "query": "#analisi2",
+      "color": {
+        "a": 1,
+        "rgb": 16065572
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.63316008316008,
+  "lineSizeMultiplier": 2.18326403326403,
+  "collapse-forces": false,
+  "centerStrength": 0.624740124740125,
+  "repelStrength": 15.4054054054054,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.1974801891531192,
+  "close": true
+}

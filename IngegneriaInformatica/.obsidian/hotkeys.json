@@ -1,0 +1,29 @@
+{
+  "editor:toggle-source": [],
+  "window:zoom-in": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "+"
+    }
+  ],
+  "window:zoom-out": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "-"
+    }
+  ],
+  "3d-graph:open-3d-graph-global": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ]
+}
