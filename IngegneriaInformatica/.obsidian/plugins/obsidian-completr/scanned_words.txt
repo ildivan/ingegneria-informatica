@@ -7,11 +7,13 @@ Definiamo
 Dominio
 Due
 Data
+Dobbiamo
 un
 uno
 una
 univocamente
 uguali
+utilizza
 insieme
 invertibile
 invertibili
@@ -46,6 +48,8 @@ limite
 land
 lati
 lim
+lipschitz
+lungo
 funzione
 funzioni
 fatto
@@ -86,6 +90,10 @@ determinato
 definisce
 definiscono
 delta
+dalla
+derivata
+direzionale
+dei
 come
 coppia
 condizioni
@@ -111,6 +119,8 @@ compatto
 chiuso
 cases
 continuit
+canonica
+contrazione
 spazio
 seguente
 soddisfare
@@ -144,6 +154,7 @@ sconnesso
 sup
 sottosuccessione
 subseteq
+soddisfatta
 metrico
 metrica
 modo
@@ -163,6 +174,7 @@ normato
 ne
 neq
 notin
+notazione
 Argomento
 Allora
 Anche
@@ -178,6 +190,7 @@ parte
 poligonale
 paralleli
 prendiamo
+parziale
 Se
 Sia
 Sottoinsieme
@@ -227,6 +240,7 @@ Notazione
 Notiamo
 La
 Legame
+Ld
 raggio
 reale
 radice
@@ -283,6 +297,7 @@ opposto
 overline
 binaria
 begin
+base
 gruppo
 geometrico
 gli
@@ -300,4 +315,5 @@ qualunque
 Cauchy
 Chiusura
 Codominio
+Chiamiamo
 Frontiera
