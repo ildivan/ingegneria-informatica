@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a0545737ede1f26",
+        "id": "5d66d2585f9c3058",
         "type": "tabs",
         "children": [
           {
-            "id": "32fbc940c09cfee5",
+            "id": "b43df3e590f1141d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivata completa e differenziabilità.md",
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivate direzionali.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivata completa e differenziabilità.md",
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivate direzionali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivata completa e differenziabilità.md",
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivate direzionali.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivata completa e differenziabilità.md"
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivate direzionali.md"
               }
             }
           }
@@ -155,15 +155,18 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "32fbc940c09cfee5",
+  "active": "b43df3e590f1141d",
   "lastOpenFiles": [
-    "Analisi 2/Funzioni/Calcolo differenziale/Derivate direzionali.md",
-    "Analisi 2/Funzioni/Calcolo differenziale/Derivata completa e differenziabilità.md",
     "Analisi 2/Funzioni/Calcolo differenziale/Derivate parziali.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Derivate direzionali.md",
     "Analisi 2/Funzioni/Calcolo differenziale/o piccolo.md",
+    "Analisi 2/Funzioni/Continuità/Funzioni continue su insiemi compatti.md",
+    "Analisi 2/Funzioni/Continuità/Continuità di funzioni in spazi metrici.md",
     "Analisi 2/Funzioni/Funzioni in spazi metrici.md",
-    "Analisi 2/Funzioni/Contrazione.md",
     "Analisi 2/Funzioni/Funzioni di Lipschitz.md",
+    "Analisi 2/Funzioni/Contrazione.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Derivata completa e differenziabilità.md",
+    "Analisi 1/Insiemi/Numeri complessi/Teorema fondamentale dell'algebra.md",
     "Analisi 2/Funzioni/Lipschitzianità e continuità.md",
     "Analisi 2/Funzioni/Limiti/Limite di una funzione in spazi metrici.md",
     "ingegneria-informatica/README.md",
@@ -172,9 +175,7 @@
     "Analisi 2/Funzioni/Limiti/Unicità del limite di una funzione in spazi metrici.md",
     "Analisi 2/Funzioni/Limiti",
     "Analisi 2/Spazi metrici/Insieme compatto.md",
-    "Analisi 2/Funzioni/Continuità/Continuità di funzioni in spazi metrici.md",
     "Analisi 2/Funzioni/Continuità/Funzioni continue su insiemi connessi.md",
-    "Analisi 2/Funzioni/Continuità/Funzioni continue su insiemi compatti.md",
     "Analisi 2/Funzioni/Continuità",
     "Analisi 1/Funzioni/Funzioni.md",
     "Analisi 2/Funzioni",
@@ -187,7 +188,6 @@
     "Analisi 2/Successioni/Limite di una successione in spazio metrico.md",
     "Analisi 2/Successioni/Successioni in spazi metrici.md",
     "Analisi 2/Spazi metrici/Proprietà degli elementi di uno spazio metrico.md",
-    "Analisi 2/Successioni/Unicità del limite di successione in spazio metrico.md",
     "Analisi 2/Successioni",
     "Analisi 2/Spazi metrici",
     "Analisi 2",

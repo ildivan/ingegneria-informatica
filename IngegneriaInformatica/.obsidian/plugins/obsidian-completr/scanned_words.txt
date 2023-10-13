@@ -8,12 +8,14 @@ Dominio
 Due
 Data
 Dobbiamo
+Dove
 un
 uno
 una
 univocamente
 uguali
 utilizza
+uguale
 insieme
 invertibile
 invertibili
@@ -94,6 +96,7 @@ dalla
 derivata
 direzionale
 dei
+differenziabile
 come
 coppia
 condizioni
@@ -121,6 +124,15 @@ cases
 continuit
 canonica
 contrazione
+coefficienti
+complessi
+complessa
+ciascuna
+contata
+chiamiamo
+completa
+compattezza
+convergente
 spazio
 seguente
 soddisfare
@@ -162,6 +174,9 @@ monotona
 monotonia
 metrici
 min
+maggiore
+molteplicit
+matrice
 Vedi
 Viene
 Vale
@@ -191,6 +206,7 @@ poligonale
 paralleli
 prendiamo
 parziale
+polinomio
 Se
 Sia
 Sottoinsieme
@@ -222,6 +238,8 @@ agli
 assi
 assurdo
 acc
+ammette
+almeno
 Teorema
 tal
 tipo
@@ -245,6 +263,9 @@ raggio
 reale
 radice
 rispettata
+reali
+radici
+rispettiva
 vuoto
 valida
 visto
@@ -258,12 +279,14 @@ vettori
 vettore
 vettoriali
 vale
+valori
 Per
 Prendiamo
 Propriet
 Parte
 Prop
 Poniamo
+Prendo
 Ma
 essendo
 equivalenti
@@ -279,6 +302,7 @@ emptyset
 exists
 end
 epsilon
+equivalentemente
 Quindi
 Queste
 Questa
@@ -301,6 +325,7 @@ base
 gruppo
 geometrico
 gli
+grado
 Il
 Inoltre
 Insieme
@@ -316,4 +341,6 @@ Cauchy
 Chiusura
 Codominio
 Chiamiamo
+Corollario
 Frontiera
+Ogni
