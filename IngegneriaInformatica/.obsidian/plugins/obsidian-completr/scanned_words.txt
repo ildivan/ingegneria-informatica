@@ -57,6 +57,7 @@ funzioni
 fatto
 forall
 frontiera
+frac
 distanza
 definiamo
 deve
@@ -97,6 +98,8 @@ derivata
 direzionale
 dei
 differenziabile
+derivate
+dire
 come
 coppia
 condizioni
@@ -253,6 +256,8 @@ tende
 tali
 to
 text
+totali
+totale
 NB
 Notazione
 Notiamo
@@ -280,6 +285,7 @@ vettore
 vettoriali
 vale
 valori
+vuol
 Per
 Prendiamo
 Propriet
@@ -306,6 +312,7 @@ equivalentemente
 Quindi
 Queste
 Questa
+Questo
 Eseguiamo
 Esempi
 Estraiamo
@@ -319,6 +326,7 @@ operazioni
 operazione
 opposto
 overline
+otteniamo
 binaria
 begin
 base
@@ -344,3 +352,4 @@ Chiamiamo
 Corollario
 Frontiera
 Ogni
+Bh

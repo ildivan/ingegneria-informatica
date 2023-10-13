@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivate direzionali.md",
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivata completa e differenziabilità.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2274448015a9ede6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Unicità della derivata totale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c001e42de4d8538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Differenziabilità e continuità.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2896fa2f311fe591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivata della somma.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivate direzionali.md",
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivata della somma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivate direzionali.md",
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivata della somma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivate direzionali.md"
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Derivata della somma.md"
               }
             }
           }
@@ -155,17 +192,20 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "b43df3e590f1141d",
+  "active": "2896fa2f311fe591",
   "lastOpenFiles": [
+    "Analisi 2/Funzioni/Calcolo differenziale/Differenziabilità e continuità.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Derivata della somma.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Unicità della derivata totale.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/o piccolo.md",
     "Analisi 2/Funzioni/Calcolo differenziale/Derivate parziali.md",
     "Analisi 2/Funzioni/Calcolo differenziale/Derivate direzionali.md",
-    "Analisi 2/Funzioni/Calcolo differenziale/o piccolo.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Derivata completa e differenziabilità.md",
     "Analisi 2/Funzioni/Continuità/Funzioni continue su insiemi compatti.md",
     "Analisi 2/Funzioni/Continuità/Continuità di funzioni in spazi metrici.md",
     "Analisi 2/Funzioni/Funzioni in spazi metrici.md",
     "Analisi 2/Funzioni/Funzioni di Lipschitz.md",
     "Analisi 2/Funzioni/Contrazione.md",
-    "Analisi 2/Funzioni/Calcolo differenziale/Derivata completa e differenziabilità.md",
     "Analisi 1/Insiemi/Numeri complessi/Teorema fondamentale dell'algebra.md",
     "Analisi 2/Funzioni/Lipschitzianità e continuità.md",
     "Analisi 2/Funzioni/Limiti/Limite di una funzione in spazi metrici.md",
@@ -185,9 +225,6 @@
     "Analisi 2/Successioni/Limitatezza di una successione.md",
     "Analisi 2/Successioni/Successioni di Cauchy.md",
     "Analisi 2/Successioni/Punti di accumulazione e successioni.md",
-    "Analisi 2/Successioni/Limite di una successione in spazio metrico.md",
-    "Analisi 2/Successioni/Successioni in spazi metrici.md",
-    "Analisi 2/Spazi metrici/Proprietà degli elementi di uno spazio metrico.md",
     "Analisi 2/Successioni",
     "Analisi 2/Spazi metrici",
     "Analisi 2",
