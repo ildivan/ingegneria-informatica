@@ -4,7 +4,7 @@ Se $f$ e $g$ sono differenziabili in $x_{0}$, allora $f+g$ è differenziabile in
 #### DIM
 Per definizione di differenziabilità:$$f(x_{0}+h) - f(x_{0}) = Df(x_{0})h + o(h) \text{ per } h \to 0$$$$g(x_{0}+h) - g(x_{0}) = Dg(x_{0})h + o(h) \text{ per } h \to 0$$
 Sommiamo le due equazioni:$$(f+g)(x_{0}+h)-(f+g)(x_{0}) - [Df(x_{0})+Dg(x_{0})]h = o(h) \text{ per } h \to 0$$
-Dove $[Df(x_{0})+Dg(x_{0})] = D(f+g)(x_{0})$.
+Ne segue che $[Df(x_{0})+Dg(x_{0})] = D(f+g)(x_{0})$.
 
 Argomento principale: [[Derivata completa e differenziabilità]]
 #analisi2 

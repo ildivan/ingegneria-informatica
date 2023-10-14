@@ -9,6 +9,8 @@ Due
 Data
 Dobbiamo
 Dove
+Dg
+Df
 un
 uno
 una
@@ -100,6 +102,8 @@ dei
 differenziabile
 derivate
 dire
+differenziabili
+differenziabilit
 come
 coppia
 condizioni
@@ -136,6 +140,8 @@ chiamiamo
 completa
 compattezza
 convergente
+colonne
+circ
 spazio
 seguente
 soddisfare
@@ -210,6 +216,7 @@ paralleli
 prendiamo
 parziale
 polinomio
+parziali
 Se
 Sia
 Sottoinsieme
@@ -258,6 +265,7 @@ to
 text
 totali
 totale
+tra
 NB
 Notazione
 Notiamo
@@ -352,4 +360,7 @@ Chiamiamo
 Corollario
 Frontiera
 Ogni
+Ovvero
 Bh
+ha
+he
