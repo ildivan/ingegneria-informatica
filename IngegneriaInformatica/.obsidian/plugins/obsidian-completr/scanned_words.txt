@@ -11,6 +11,7 @@ Dobbiamo
 Dove
 Dg
 Df
+Definizione
 un
 uno
 una
@@ -18,6 +19,7 @@ univocamente
 uguali
 utilizza
 uguale
+unici
 insieme
 invertibile
 invertibili
@@ -40,6 +42,10 @@ illimitata
 ipotizziamo
 implies
 infty
+inferiore
+integrale
+integrabile
+integrabili
 la
 le
 lo
@@ -55,12 +61,17 @@ lim
 lipschitz
 lungo
 ldots
+limiti
+limitate
 funzione
 funzioni
 fatto
 forall
 frontiera
 frac
+formale
+finiti
+famiglia
 distanza
 definiamo
 deve
@@ -105,6 +116,8 @@ derivate
 dire
 differenziabili
 differenziabilit
+dell
+diciamo
 come
 coppia
 condizioni
@@ -143,6 +156,9 @@ compattezza
 convergente
 colonne
 circ
+cos
+convesso
+confronto
 spazio
 seguente
 soddisfare
@@ -180,6 +196,12 @@ soddisfatta
 set
 sufficientemente
 scrivere
+segmento
+sottinsieme
+superiore
+suddivisione
+suddivisioni
+secondo
 metrico
 metrica
 modo
@@ -190,6 +212,10 @@ min
 maggiore
 molteplicit
 matrice
+minimo
+maggioranti
+massimo
+minoranti
 Vedi
 Viene
 Vale
@@ -206,6 +232,7 @@ notazione
 Argomento
 Allora
 Anche
+Analogamente
 principale
 punto
 propriet
@@ -224,6 +251,11 @@ parziali
 partial
 piccola
 possiamo
+punti
+partenenti
+pi
+precisa
+possibili
 Se
 Sia
 Sottoinsieme
@@ -259,6 +291,7 @@ ammette
 almeno
 al
 alpha
+alla
 Teorema
 tal
 tipo
@@ -275,6 +308,8 @@ text
 totali
 totale
 tra
+teorema
+tutte
 NB
 Notazione
 Notiamo
@@ -288,6 +323,8 @@ rispettata
 reali
 radici
 rispettiva
+retta
+rispetto
 vuoto
 valida
 visto
@@ -326,6 +363,10 @@ exists
 end
 epsilon
 equivalentemente
+essa
+estremi
+estremo
+esistono
 Quindi
 Queste
 Questa
@@ -345,6 +386,8 @@ opposto
 overline
 otteniamo
 overset
+ordinato
+ovvero
 binaria
 begin
 base
@@ -358,8 +401,11 @@ Il
 Inoltre
 Insieme
 Inversamente
+Integrale
+Integrabilit
 Gli
 Rappresenta
+Riemman
 quindi
 questa
 quanto

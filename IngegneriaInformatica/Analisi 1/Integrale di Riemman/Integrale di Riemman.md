@@ -22,5 +22,5 @@ Chiamiamo:$$\int_{a}^{b}f(x)dx=I(f)=J(f)$$
 non tutte le funzioni limitate sono integrabili.
 
 
-Vedi: [[Somma inferiore e superiore]],[[Suddivisione di un intervallo]],[[Estremo superiore e inferiore]]
+Vedi: [[Somma inferiore e superiore]],[[Suddivisione di un intervallo]],[[Estremi di insieme]]
 #analisi1 

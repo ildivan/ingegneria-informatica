@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f40cc980110a925",
+        "id": "6a8c2c2ab0edc422",
         "type": "tabs",
         "children": [
           {
-            "id": "0cd3d9b96aaf3bbe",
+            "id": "154c9936b56e680a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,12 +147,19 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "0cd3d9b96aaf3bbe",
+  "active": "154c9936b56e680a",
   "lastOpenFiles": [
+    "Analisi 2/Spazi metrici/Insieme convesso.md",
+    "Analisi 2/Spazi metrici/Limitatezza di un insieme.md",
+    "Analisi 1/Integrale di Riemman/Integrale di Riemman.md",
+    "Analisi 1/Integrale di Riemman/Somma inferiore e superiore.md",
+    "Analisi 1/Insiemi/Estremi di insieme.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Teorema degli accrescimenti finiti.md",
+    "Analisi 2/Spazi metrici/Segmento.md",
+    "Algebra/Geometria analitica/Spazi affini/Segmento.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Derivate parziali.md",
     "Analisi 2/Funzioni/Calcolo differenziale/Derivata completa e differenziabilità.md",
     "Analisi 2/Funzioni/Calcolo differenziale/o piccolo.md",
-    "Untitled.md",
-    "Analisi 2/Funzioni/Calcolo differenziale/Derivate parziali.md",
     "Analisi 2/Funzioni/Calcolo differenziale/Derivata della composizione.md",
     "Analisi 2/Funzioni/Calcolo differenziale/Derivata della somma.md",
     "Analisi 2/Funzioni/Calcolo differenziale/Differenziabilità e continuità.md",
@@ -171,15 +178,8 @@
     "Analisi 2/Funzioni/Calcolo differenziale",
     "Analisi 2/Funzioni/Limiti/Unicità del limite di una funzione in spazi metrici.md",
     "Analisi 2/Funzioni/Limiti",
-    "Analisi 2/Spazi metrici/Insieme compatto.md",
-    "Analisi 2/Funzioni/Continuità/Funzioni continue su insiemi connessi.md",
     "Analisi 2/Funzioni/Continuità",
-    "Analisi 1/Funzioni/Funzioni.md",
     "Analisi 2/Funzioni",
-    "Analisi 2/Spazi metrici/Insieme sconnesso.md",
-    "Analisi 2/Spazi metrici/Insiemi separati.md",
-    "Analisi 2/Spazi metrici/Spazio metrico completo.md",
-    "Analisi 2/Successioni/Limitatezza di una successione.md",
     "Analisi 2/Successioni",
     "Analisi 2/Spazi metrici",
     "Analisi 2",

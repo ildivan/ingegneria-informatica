@@ -9,5 +9,5 @@ Quindi esistono finiti i limiti:$$\lim_{n\to \infty}s(f,D_{n}) \text{ e } \lim_{
 E per il teorema del confronto:$$\lim_{n\to \infty}s(f,D_{n}) \le \lim_{n\to \infty}S(f,D_{n})$$
 
 Argomento principale:[[Integrale di Riemman]]
-Vedi:[[Suddivisione di un intervallo]],[[Limiti]],[[Estremo superiore e inferiore]]
+Vedi:[[Suddivisione di un intervallo]],[[Limiti]],[[Estremi di insieme]]
 #analisi1 

@@ -2,5 +2,5 @@ In $A_{n}(K)$ il punto $T$ si dice simmetrico del punto $H$ rispetto al punto $C
 Il punto $C$ viene chiamato centro della simmetria.
 
 Argomento principale: [[Spazi affini]]
-Vedi: [[Segmento]],[[Punto medio di un segmento]]
+Vedi: [[Algebra/Geometria analitica/Spazi affini/Segmento]],[[Punto medio di un segmento]]
 #algebra 

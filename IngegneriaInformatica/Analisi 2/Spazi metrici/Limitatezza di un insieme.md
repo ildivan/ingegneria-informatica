@@ -6,5 +6,5 @@ $A$ è **limitato** $\xrightleftharpoons{} \sup_{x,y\in A}d(x,y) \neq +\infty$
 Definiamo $\sup_{x,y\in A}d(x,y)$ come **diametro** di $A$.
 
 Argomento principale: [[Spazi metrici]]
-Vedi: [[Estremo superiore e inferiore]],[[Funzione distanza]] 
+Vedi: [[Estremi di insieme]],[[Funzione distanza]] 
 #analisi2 
