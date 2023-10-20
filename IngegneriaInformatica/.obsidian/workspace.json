@@ -4,18 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "6a8c2c2ab0edc422",
+        "id": "9655d8a47e58bd80",
         "type": "tabs",
         "children": [
           {
-            "id": "154c9936b56e680a",
+            "id": "9cbd29fd91324fc2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Teorema degli accrescimenti finiti.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "291381480354aba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Funzione costante su un insieme connesso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50ad9ec759ef519b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Linearità e differenziabilità.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6a30fa74f900ebc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Lemma di Schwarz.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Lemma di Schwarz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Lemma di Schwarz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Lemma di Schwarz.md"
+              }
             }
           }
         ]
@@ -147,14 +192,26 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "154c9936b56e680a",
+  "active": "72260083cbab5a9f",
   "lastOpenFiles": [
+    "Analisi 2/Funzioni/Calcolo differenziale/Derivata mista.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Matrice hessiana.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Lemma di Schwarz.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Linearità e differenziabilità.md",
+    "Analisi 2/Funzioni/Funzioni di Lipschitz.md",
+    "Algebra/Applicazioni lineari/Applicazioni lineari.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Funzione costante su un insieme connesso.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Funzione costante su insieme convesso.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Teorema degli accrescimenti finiti.md",
+    "Analisi 1/Derivate/Teorema della derivata nulla.md",
+    "Algebra/Applicazioni lineari/Endomorfismi diagonalizzabili.md",
+    "Algebra/Applicazioni lineari/Forme quadratiche/Matrice associata ad una forma quadratica.md",
+    "Algebra/Applicazioni lineari/Forme quadratiche/Forme quadratiche.md",
     "Analisi 2/Spazi metrici/Insieme convesso.md",
     "Analisi 2/Spazi metrici/Limitatezza di un insieme.md",
     "Analisi 1/Integrale di Riemman/Integrale di Riemman.md",
     "Analisi 1/Integrale di Riemman/Somma inferiore e superiore.md",
     "Analisi 1/Insiemi/Estremi di insieme.md",
-    "Analisi 2/Funzioni/Calcolo differenziale/Teorema degli accrescimenti finiti.md",
     "Analisi 2/Spazi metrici/Segmento.md",
     "Algebra/Geometria analitica/Spazi affini/Segmento.md",
     "Analisi 2/Funzioni/Calcolo differenziale/Derivate parziali.md",
@@ -163,20 +220,8 @@
     "Analisi 2/Funzioni/Calcolo differenziale/Derivata della composizione.md",
     "Analisi 2/Funzioni/Calcolo differenziale/Derivata della somma.md",
     "Analisi 2/Funzioni/Calcolo differenziale/Differenziabilità e continuità.md",
-    "Analisi 2/Funzioni/Calcolo differenziale/Unicità della derivata totale.md",
-    "Analisi 2/Funzioni/Calcolo differenziale/Derivate direzionali.md",
-    "Analisi 2/Funzioni/Continuità/Funzioni continue su insiemi compatti.md",
-    "Analisi 2/Funzioni/Continuità/Continuità di funzioni in spazi metrici.md",
-    "Analisi 2/Funzioni/Funzioni in spazi metrici.md",
-    "Analisi 2/Funzioni/Funzioni di Lipschitz.md",
-    "Analisi 2/Funzioni/Contrazione.md",
-    "Analisi 1/Insiemi/Numeri complessi/Teorema fondamentale dell'algebra.md",
-    "Analisi 2/Funzioni/Lipschitzianità e continuità.md",
-    "Analisi 2/Funzioni/Limiti/Limite di una funzione in spazi metrici.md",
-    "ingegneria-informatica/README.md",
     "ingegneria-informatica",
     "Analisi 2/Funzioni/Calcolo differenziale",
-    "Analisi 2/Funzioni/Limiti/Unicità del limite di una funzione in spazi metrici.md",
     "Analisi 2/Funzioni/Limiti",
     "Analisi 2/Funzioni/Continuità",
     "Analisi 2/Funzioni",
