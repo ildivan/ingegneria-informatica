@@ -47,6 +47,10 @@ integrale
 integrabile
 integrabili
 identica
+implicita
+intorno
+iniziamo
+innanzitutto
 la
 le
 lo
@@ -130,6 +134,8 @@ diagonale
 diagonalizzabilit
 degli
 derivabile
+det
+dimostriamo
 come
 coppia
 condizioni
@@ -245,6 +251,7 @@ miste
 Vedi
 Viene
 Vale
+Vogliamo
 nel
 non
 nullo
@@ -264,6 +271,7 @@ Allora
 Anche
 Analogamente
 Applicazioni
+Ax
 principale
 punto
 propriet
@@ -288,6 +296,7 @@ pi
 precisa
 possibili
 phi
+ponendo
 Se
 Sia
 Sottoinsieme
@@ -355,6 +364,9 @@ teorema
 tutte
 tx
 trasformazione
+trovare
+times
+tenuto
 NB
 Notazione
 Notiamo
@@ -372,6 +384,7 @@ retta
 rispetto
 rappresentativa
 reguisiti
+rappresenta
 vuoto
 valida
 visto
@@ -485,5 +498,6 @@ Frontiera
 Ogni
 Ovvero
 Bh
+By
 ha
 he

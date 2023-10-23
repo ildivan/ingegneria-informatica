@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cbd29fd91324fc2",
+            "id": "a214daf4a19071da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi 2/Funzioni/Calcolo differenziale/Teorema degli accrescimenti finiti.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "291381480354aba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi 2/Funzioni/Calcolo differenziale/Funzione costante su un insieme connesso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50ad9ec759ef519b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi 2/Funzioni/Calcolo differenziale/Linearità e differenziabilità.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6a30fa74f900ebc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi 2/Funzioni/Calcolo differenziale/Lemma di Schwarz.md",
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Funzioni implicite/Teorema della funzione implicita.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 432.5
   },
   "right": {
     "id": "f9ec250943dcbcf2",
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi 2/Funzioni/Calcolo differenziale/Lemma di Schwarz.md",
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Funzioni implicite/Teorema della funzione implicita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analisi 2/Funzioni/Calcolo differenziale/Lemma di Schwarz.md",
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Funzioni implicite/Teorema della funzione implicita.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi 2/Funzioni/Calcolo differenziale/Lemma di Schwarz.md"
+                "file": "Analisi 2/Funzioni/Calcolo differenziale/Funzioni implicite/Teorema della funzione implicita.md"
               }
             }
           }
@@ -192,8 +155,16 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "72260083cbab5a9f",
+  "active": "a214daf4a19071da",
   "lastOpenFiles": [
+    "Analisi 2/Funzioni/Calcolo differenziale/Funzioni implicite/Teorema della funzione implicita.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Teorema degli accrescimenti finiti.md",
+    "Analisi 2/Funzioni/Contrazione.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Funzioni implicite/Teorema della funzione implicita (caso lineare).md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Funzioni implicite/Funzione implicita.md",
+    "Matrice inversa.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Derivata della composizione.md",
+    "Analisi 2/Funzioni/Calcolo differenziale/Funzioni implicite",
     "Analisi 2/Funzioni/Calcolo differenziale/Derivata mista.md",
     "Analisi 2/Funzioni/Calcolo differenziale/Matrice hessiana.md",
     "Analisi 2/Funzioni/Calcolo differenziale/Lemma di Schwarz.md",
@@ -202,7 +173,6 @@
     "Algebra/Applicazioni lineari/Applicazioni lineari.md",
     "Analisi 2/Funzioni/Calcolo differenziale/Funzione costante su un insieme connesso.md",
     "Analisi 2/Funzioni/Calcolo differenziale/Funzione costante su insieme convesso.md",
-    "Analisi 2/Funzioni/Calcolo differenziale/Teorema degli accrescimenti finiti.md",
     "Analisi 1/Derivate/Teorema della derivata nulla.md",
     "Algebra/Applicazioni lineari/Endomorfismi diagonalizzabili.md",
     "Algebra/Applicazioni lineari/Forme quadratiche/Matrice associata ad una forma quadratica.md",
@@ -214,12 +184,6 @@
     "Analisi 1/Insiemi/Estremi di insieme.md",
     "Analisi 2/Spazi metrici/Segmento.md",
     "Algebra/Geometria analitica/Spazi affini/Segmento.md",
-    "Analisi 2/Funzioni/Calcolo differenziale/Derivate parziali.md",
-    "Analisi 2/Funzioni/Calcolo differenziale/Derivata completa e differenziabilità.md",
-    "Analisi 2/Funzioni/Calcolo differenziale/o piccolo.md",
-    "Analisi 2/Funzioni/Calcolo differenziale/Derivata della composizione.md",
-    "Analisi 2/Funzioni/Calcolo differenziale/Derivata della somma.md",
-    "Analisi 2/Funzioni/Calcolo differenziale/Differenziabilità e continuità.md",
     "ingegneria-informatica",
     "Analisi 2/Funzioni/Calcolo differenziale",
     "Analisi 2/Funzioni/Limiti",
@@ -231,7 +195,6 @@
     "Probabilità e statistica/Probabilità/Teoria assiomatica della probabilità",
     "Economia/Macroeconomia/Sistema bancario/TassoInteresse.png",
     "Economia/Macroeconomia/Sistema bancario/domandaMoneta.png",
-    "Fisica/Cinematica/Moto in più dimensioni",
     "Fisica/Cinematica/Vettori geometrici/prodotto_vettoriale.jpg",
     "Economia/Macroeconomia/Indici/flussiLavorativi.png"
   ]
