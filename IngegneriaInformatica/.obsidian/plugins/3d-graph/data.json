@@ -3,11 +3,20 @@
     "doShowOrphans": false
   },
   "groups": {
-    "groups": []
+    "groups": [
+      {
+        "query": "#analisi2",
+        "color": "#f31212"
+      },
+      {
+        "query": "#analisi1",
+        "color": "#98ff1a"
+      }
+    ]
   },
   "display": {
     "nodeSize": 3,
-    "linkThickness": 1,
+    "linkThickness": 3,
     "particleSize": 1,
     "particleCount": 1
   }

@@ -12,6 +12,7 @@ Dove
 Dg
 Df
 Definizione
+Detto
 un
 uno
 una
@@ -20,6 +21,7 @@ uguali
 utilizza
 uguale
 unici
+unicit
 insieme
 invertibile
 invertibili
@@ -81,6 +83,7 @@ famiglia
 forma
 finitamente
 fra
+fisso
 distanza
 definiamo
 deve
@@ -136,6 +139,8 @@ degli
 derivabile
 det
 dimostriamo
+dimostrate
+disuguaglianze
 come
 coppia
 condizioni
@@ -297,6 +302,7 @@ precisa
 possibili
 phi
 ponendo
+precedenti
 Se
 Sia
 Sottoinsieme
@@ -344,6 +350,7 @@ autospazio
 associato
 all
 applicare
+affermare
 Teorema
 tal
 tipo
@@ -367,6 +374,7 @@ trasformazione
 trovare
 times
 tenuto
+troviamo
 NB
 Notazione
 Notiamo
@@ -435,6 +443,7 @@ esistono
 endomorfismo
 equivale
 entrambi
+esistenza
 Quindi
 Queste
 Questa
@@ -487,6 +496,7 @@ qualsiasi
 qualunque
 quadratica
 quella
+questo
 Cauchy
 Chiusura
 Codominio
@@ -494,6 +504,7 @@ Chiamiamo
 Corollario
 Consideriamo
 Criterio
+Continuando
 Frontiera
 Ogni
 Ovvero

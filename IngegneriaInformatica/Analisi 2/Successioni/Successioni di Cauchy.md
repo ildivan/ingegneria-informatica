@@ -1,5 +1,5 @@
 Sia $(X,d)$ uno spazio metrico e sia $x:N \to X$ una successione.
-$x$ è di Cauchy $\xrightleftharpoons{}$ $$\forall \epsilon > 0 \space\exists \nu\in N : \forall n,m > \nu \space d(x_{n},x_{m})<\epsilon$$
+$x$ è di Cauchy $\xrightleftharpoons{}$ $$\forall \epsilon > 0 \space\exists \nu\in N : \forall n,m > \nu \space \space d(x_{n},x_{m})<\epsilon$$
 #### Prop 
 Se $\exists l\in X$ tale che:$$\lim_{n \to +\infty} x_{n}=l$$
 Allora $x$ è di Cauchy.
